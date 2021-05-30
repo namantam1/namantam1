@@ -1,5 +1,5 @@
 ### Hi there, My self Naman Tamrakar  👋
-![](https://komarev.com/ghpvc/?username=namantam1&label=PROFILE+VIEWS1&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=namantam1&label=PROFILE+VIEWS&color=ff69b4)
 
 ## I'm an Aspiring Fullstack Web Developer!!
 - 🔭 I am currently working at : [Mirrorscore](https://mirrorscore.com)!
