@@ -6,6 +6,10 @@
 - 🌱 I’m currently learning [**Node JS**](https://nodejs.org/) 📚
 - 📙 Education: Pursuing **B.Tech** from **Nation Institute of Technology, Waramgal**
 
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namantam1&layout=compact)
+
 
 <!--
 **namantam1/namantam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
