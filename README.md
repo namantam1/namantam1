@@ -4,7 +4,7 @@
 ## I'm an Aspiring Fullstack Web Developer!!
 - 🔭 I am currently working at : [Mirrorscore](https://mirrorscore.com)!
 - 🌱 I’m currently learning [**Node JS**](https://nodejs.org/) 📚
-- 📙 Education: Pursuing **B.Tech** from **Nation Institute of Technology, Waramgal**
+- 📙 Education: Pursuing **B.Tech** from **Nation Institute of Technology, Warangal**
 
 <br/>
 
