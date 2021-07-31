@@ -2,8 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=namantam1&label=PROFILE+VIEWS&color=ff69b4)
 
 ## I'm an Aspiring Fullstack Web Developer!!
-- 🔭 I am currently working at : [Mirrorscore](https://mirrorscore.com)!
-- 🌱 I’m currently learning [**Node JS**](https://nodejs.org/) 📚
+- 🔭 I am currently working with : [Mirrorscore](https://mirrorscore.com)!
+- 🌱 I’m currently learning [**Node JS, Data Structure**](https://nodejs.org/) 📚
 - 📙 Education: Pursuing **B.Tech** from **Nation Institute of Technology, Warangal**
 
 <br/>
