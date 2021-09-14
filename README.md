@@ -10,9 +10,8 @@
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=namantam1&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss)
-
-![](https://github-readme-stats.vercel.app/api?username=namantam1&show_icons=true&locale=en&theme=radical&private_count=true)
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=namantam1&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss)|![](https://github-readme-stats.vercel.app/api?username=namantam1&show_icons=true&locale=en&theme=radical&private_count=true)|
+|--------|--------|
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=namantam1&theme=radical)
 
