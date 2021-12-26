@@ -4,7 +4,7 @@
 ## I'm an Aspiring Fullstack Web Developer!!
 - 🔭 I am currently working at [Mirrorscore](https://mirrorscore.com)!
 - 🤔 I’m looking for help to create an open source project for Django Socket.io.
-- 🌱 I’m currently learning [**Node JS**](https://nodejs.org/), Algorithm 📚
+- 🌱 I’m currently learning Algorithm 📚
 - 📙 Education: Pursuing **B.Tech** from **Nation Institute of Technology, Warangal**
 - 💬 Ask me about [Django](https://www.djangoproject.com), [React](https://reactjs.org).
 - ⚡ Fun fact: My hobby is also **coding**.
