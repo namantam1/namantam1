@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=namantam1&label=PROFILE+VIEWS&color=ff69b4)
 
 ## I'm an Aspiring Fullstack Web Developer!!
-- 🔭 I am currently working at [Mirrorscore](https://mirrorscore.com)!
+<!-- - 🔭 I am  -->
 - 🤔 I’m looking for help to create an open source project for Django Socket.io.
 - 🌱 I’m currently learning Algorithm 📚
 - 📙 Education: Pursuing **B.Tech** from **Nation Institute of Technology, Warangal**
