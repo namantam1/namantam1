@@ -11,10 +11,12 @@
 
 <br/>
 
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=namantam1&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss)|![](https://github-readme-stats.vercel.app/api?username=namantam1&show_icons=true&locale=en&theme=radical&private_count=true)|
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=namantam1&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook&langs_count=10)|![](https://github-readme-stats.vercel.app/api?username=namantam1&show_icons=true&locale=en&theme=radical&private_count=true)|
 |--------|--------|
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=namantam1&theme=radical)
+
+<!-- [![Naman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@namantam1)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <h3 align="left">Languages and Tools I used most:</h3>
