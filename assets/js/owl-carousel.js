@@ -60,7 +60,7 @@
 		 * Currently suppressed events to prevent them from being retriggered.
 		 * @protected
 		 */
-		this._supress = {};
+		this._suppress = {};
 
 		/**
 		 * Absolute current position.
@@ -918,7 +918,7 @@
 		}
 
 		if (!this.settings.loop) {
-			// non loop boundries
+			// non loop boundaries
 			if (this.op(coordinate, '>', coordinates[this.minimum()])) {
 				position = coordinate = this.minimum();
 			} else if (this.op(coordinate, '<', coordinates[this.maximum()])) {
@@ -1512,7 +1512,7 @@
 	 * @param {HTMLElement} element - The event source.
 	 * @param {String} event - The event name.
 	 * @param {Function} listener - The event handler to attach.
-	 * @param {Boolean} capture - Wether the event should be handled at the capturing phase or not.
+	 * @param {Boolean} capture - Whether the event should be handled at the capturing phase or not.
 	 */
 	Owl.prototype.on = function(element, event, listener, capture) {
 		if (element.addEventListener) {
@@ -1528,7 +1528,7 @@
 	 * @param {HTMLElement} element - The event source.
 	 * @param {String} event - The event name.
 	 * @param {Function} listener - The attached event handler to detach.
-	 * @param {Boolean} capture - Wether the attached event handler was registered as a capturing listener or not.
+	 * @param {Boolean} capture - Whether the attached event handler was registered as a capturing listener or not.
 	 */
 	Owl.prototype.off = function(element, event, listener, capture) {
 		if (element.removeEventListener) {
@@ -1560,7 +1560,7 @@
 			$.extend({ relatedTarget: this }, status, data)
 		);
 
-		if (!this._supress[name]) {
+		if (!this._suppress[name]) {
 			$.each(this._plugins, function(name, plugin) {
 				if (plugin.onTrigger) {
 					plugin.onTrigger(event);
@@ -1643,7 +1643,7 @@
 	 */
 	Owl.prototype.suppress = function(events) {
 		$.each(events, $.proxy(function(index, event) {
-			this._supress[event] = true;
+			this._suppress[event] = true;
 		}, this));
 	};
 
@@ -1654,7 +1654,7 @@
 	 */
 	Owl.prototype.release = function(events) {
 		$.each(events, $.proxy(function(index, event) {
-			delete this._supress[event];
+			delete this._suppress[event];
 		}, this));
 	};
 
